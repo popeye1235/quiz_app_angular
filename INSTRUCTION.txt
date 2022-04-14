@@ -1,0 +1,10 @@
+Instructions:
+
+1. Clone the project using "git clone https://github.com/popeye1235/quiz_app_angular.git"
+2. Update your firebase credencials on src/environments/environment.ts
+3. install dependencies using "npm -install"
+4. start the project using "ng serve"
+5. visit "http://localhost:4200" to access this application
+
+
+**Assuming Angular 9.0.4 install in your system
